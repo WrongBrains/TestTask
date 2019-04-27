@@ -1,0 +1,39 @@
+﻿  EngineModel.cpp
+c:\users\егор\desktop\enginemodel\enginemodel\enginemodel.cpp(32): warning C4244: =: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  Engines.cpp
+c:\users\егор\desktop\enginemodel\enginemodel\engines.cpp(18): warning C4244: аргумент: преобразование "float" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+c:\users\егор\desktop\enginemodel\enginemodel\engines.cpp(22): warning C4244: аргумент: преобразование "float" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+c:\users\егор\desktop\enginemodel\enginemodel\engines.cpp(25): warning C4244: аргумент: преобразование "float" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+c:\users\егор\desktop\enginemodel\enginemodel\engines.cpp(29): warning C4244: аргумент: преобразование "float" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+c:\users\егор\desktop\enginemodel\enginemodel\engines.cpp(35): warning C4244: =: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+c:\users\егор\desktop\enginemodel\enginemodel\engines.cpp(36): warning C4244: =: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  Создание кода...
+  EngineModel.vcxproj -> C:\Users\Егор\Desktop\EngineModel\Debug\EngineModel.exe
